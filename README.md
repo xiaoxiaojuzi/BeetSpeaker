@@ -2,9 +2,9 @@
 
 把 [nospeaker](https://github.com/os6/nospeaker) 的想法搬到 iPhone：不走扬声器，用 Taptic Engine 播放低频节奏和旋律。
 
-## 为什么不是网页
+## 播放
 
-iOS 上的 Safari 没有实现 Vibration API，网页也调用不了 Core Haptics。只能做原生 App。
+心跳，两只老虎，小星星
 
 ## 和 Mac 版的差别
 
